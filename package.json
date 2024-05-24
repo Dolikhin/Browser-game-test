@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dolikhin/Browser-game-test.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Haxall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dolikhin/Browser-game-test/issues"
+  },
+  "homepage": "https://github.com/Dolikhin/Browser-game-test#readme"
+}
